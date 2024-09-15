@@ -97,4 +97,7 @@ A well-tested app is more reliable and easier to maintain:
 
 11- Continuous Integration and Continuous Deployment (CI/CD).
 
+![image](https://github.com/user-attachments/assets/8fe37bae-140a-41a2-93ce-37fbddaa2a18)
+
+
 **_Implementing these features in your React.js projects will demonstrate your expertise in building high-performance, scalable, and maintainable applications._**
